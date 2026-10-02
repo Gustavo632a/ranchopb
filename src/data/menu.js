@@ -1,0 +1,6 @@
+export const menu=[
+ {title:'Feijoada',image:'/images/comida-05.png',alt:'Feijoada servida com acompanhamentos no Rancho PB',description:'Um dos sabores que fazem parte da identidade do Rancho.',action:'Consultar opções',message:'Olá! Conheci o Rancho PB pelo site e gostaria de saber mais sobre as opções de feijoada.'},
+ {title:'Churrasco',image:'/images/comida-06.png',alt:'Carne assada no espeto no Rancho PB',description:'Cortes e sabores para aproveitar uma boa refeição em família ou com amigos.',action:'Quero conhecer',message:'Olá! Conheci o Rancho PB pelo site e gostaria de saber mais sobre as opções de churrasco.'},
+ {title:'Pizzas',image:'/images/comida-03.png',alt:'Pizza servida à mesa com vinho',description:'Opções para compartilhar e aproveitar o ambiente com calma.',action:'Consultar pizzas',message:'Olá! Conheci o Rancho PB pelo site e gostaria de saber mais sobre as pizzas.'},
+ {title:'Petiscos',image:'/images/comida-04.png',alt:'Drink gelado para acompanhar encontros no Rancho PB',description:'Perfeitos para acompanhar encontros, happy hour e bons momentos.',action:'Ver opções',message:'Olá! Conheci o Rancho PB pelo site e gostaria de saber mais sobre os petiscos.'}
+];
